@@ -1,0 +1,17 @@
+C:\Users\angel\source\repos\Calcu\Calcu\bin\Debug\net6.0-windows\Calcu.exe
+C:\Users\angel\source\repos\Calcu\Calcu\bin\Debug\net6.0-windows\Calcu.deps.json
+C:\Users\angel\source\repos\Calcu\Calcu\bin\Debug\net6.0-windows\Calcu.runtimeconfig.json
+C:\Users\angel\source\repos\Calcu\Calcu\bin\Debug\net6.0-windows\Calcu.dll
+C:\Users\angel\source\repos\Calcu\Calcu\bin\Debug\net6.0-windows\Calcu.pdb
+C:\Users\angel\source\repos\Calcu\Calcu\obj\Debug\net6.0-windows\Calcu.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\Calcu\Calcu\obj\Debug\net6.0-windows\Calcu.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\Calcu\Calcu\obj\Debug\net6.0-windows\Calcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\Calcu\Calcu\obj\Debug\net6.0-windows\Calcu.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\Calcu\Calcu\obj\Debug\net6.0-windows\Calcu.AssemblyInfo.cs
+C:\Users\angel\source\repos\Calcu\Calcu\obj\Debug\net6.0-windows\Calcu.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Calcu\Calcu\obj\Debug\net6.0-windows\Calcu.dll
+C:\Users\angel\source\repos\Calcu\Calcu\obj\Debug\net6.0-windows\refint\Calcu.dll
+C:\Users\angel\source\repos\Calcu\Calcu\obj\Debug\net6.0-windows\Calcu.pdb
+C:\Users\angel\source\repos\Calcu\Calcu\obj\Debug\net6.0-windows\Calcu.genruntimeconfig.cache
+C:\Users\angel\source\repos\Calcu\Calcu\obj\Debug\net6.0-windows\ref\Calcu.dll
+C:\Users\angel\source\repos\Calcu\Calcu\obj\Debug\net6.0-windows\Calcu.Calculadora.resources
